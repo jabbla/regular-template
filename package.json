@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "html-webpack-plugin": "^2.29.0",
+    "webpack": "^3.3.0"
+  },
+  "dependencies": {
+    "html-loader": "^0.4.5",
+    "regularjs": "^0.6.0-beta.6"
+  }
+}
